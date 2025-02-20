@@ -5,8 +5,8 @@
 
 
 # Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=male29003&show_icons=true&theme=gotham&hide=starts,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=male29003&layout=donut-vertical)](https://github.com/male29003/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=male29003&show_icons=true&theme=gotham&hide=stars,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=male29003&layout=vertical)](https://github.com/male29003/github-readme-stats)
 
 ## Languages
 
