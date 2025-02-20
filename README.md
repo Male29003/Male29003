@@ -6,18 +6,14 @@
 
 # Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=male29003&show_icons=true&theme=gotham&hide=starts,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=male29003&layout=compact&langs_count=4)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=male29003&layout=donut-vertical)](https://github.com/male29003/github-readme-stats)
 
 ## Languages
-### 🌐 For web app
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Javascript web](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks
 
@@ -37,6 +33,6 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-# console.log('Thanks for visiting my GitHub!')
+# ✨✨✨ console.log('Thanks for visiting my GitHub!') ✨✨✨
 
 
