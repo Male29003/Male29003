@@ -38,8 +38,6 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
